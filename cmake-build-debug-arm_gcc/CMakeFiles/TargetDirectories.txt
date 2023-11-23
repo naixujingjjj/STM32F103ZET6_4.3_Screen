@@ -1,3 +1,0 @@
-G:/ElectricDesign/clion/ll_proj/f1/proj1/cmake-build-debug-arm_gcc/CMakeFiles/proj1.elf.dir
-G:/ElectricDesign/clion/ll_proj/f1/proj1/cmake-build-debug-arm_gcc/CMakeFiles/edit_cache.dir
-G:/ElectricDesign/clion/ll_proj/f1/proj1/cmake-build-debug-arm_gcc/CMakeFiles/rebuild_cache.dir
